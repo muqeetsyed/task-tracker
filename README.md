@@ -9,13 +9,7 @@ This project also helps to work with the filesystem, handling user inputs, and b
 
 The application runs from the command line, that accept user actions and inputs as arguments, and store the tasks in a JSON file. The user is able to:
 
-Add, Update, and Delete tasks
-Mark a task as in progress or done
-List all tasks
-List all tasks that are done
-List all tasks that are not done
-List all tasks that are in progress
-Here are some constraints to guide the implementation:
+Add, Update, and Delete tasks and also Lists all tasks
 
 
 
